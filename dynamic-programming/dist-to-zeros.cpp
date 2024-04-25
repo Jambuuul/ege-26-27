@@ -1,3 +1,6 @@
+// https://education.yandex.ru/ege/task/3d6293ee-53c2-4c63-ba3e-94a4d126ce26
+
+
 #include <bits/stdc++.h>
 
 
